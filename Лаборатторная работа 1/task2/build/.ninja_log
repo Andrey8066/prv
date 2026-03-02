@@ -1,0 +1,6 @@
+# ninja log v6
+1	679	1771921850034199035	CMakeFiles/task2.dir/Bank.cpp.o	17af74089f338a70
+1	772	1771921850033901598	CMakeFiles/task2.dir/BankMutex.cpp.o	d4ff375639a90d75
+1450	1567	1771921851482544404	task2	6e18fae0d3317d27
+1	816	1771921850032295488	CMakeFiles/task2.dir/BankAtomic.cpp.o	447dfcf9f33d7be8
+0	1450	1771921850031295458	CMakeFiles/task2.dir/task2.cpp.o	cbd7e0a4c17a8c41
