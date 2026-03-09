@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task2/build"
+			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task1/build"
 		},
 		{
 			"name" : "BankProject_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task2"
+			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task1"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task2/build"
+			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task1/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -175,10 +175,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/clang++"
 		},
 		{
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task2/build/CMakeFiles/pkgRedirects"
+			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task1/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task2"
+			"value" : "/home/andrey/Documents/BMSTU/PRV/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 1/task1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",

@@ -13,13 +13,13 @@ Bank::Bank() {
 }
 void Bank::decrease(long long sum) {
   balance -= sum;
-  cout << "Балланс счета №" << id << " уменьшен  на " << to_string(sum)
-       << ", балланс счета: " << to_string(balance) << endl;
+  // cout << "Балланс счета №" << id << " уменьшен  на " << to_string(sum)
+  //    << ", балланс счета: " << to_string(balance) << endl;
 }
 void Bank::increase(long long sum) {
   balance += sum;
-  cout << "Балланс счета №" << id << " увеличен  на " << to_string(sum)
-       << ", балланс счета: " << to_string(balance) << endl;
+  // cout << "Балланс счета №" << id << " увеличен  на " << to_string(sum)
+  //    << ", балланс счета: " << to_string(balance) << endl;
 }
 
 long long Bank::getBalance() { return balance; }

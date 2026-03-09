@@ -1,12 +1,13 @@
 #include <chrono>
 #include <iostream>
+#include <random>
 #include <thread>
 #include <threads.h>
 #include <vector>
 
 using namespace std;
 
-// Умножение двух матриц
+// Однопоточное умножение двух матриц
 void multiplexMatrices(vector<vector<int>> &A, vector<vector<int>> &B,
                        vector<vector<int>> &res) {
   int N = A.size();
@@ -51,13 +52,18 @@ void multiplexMatricesMultiThreads(vector<vector<int>> &A,
     t.join();
 }
 
-// Метод для однопоточного вычисления матричного произведения
+// Метод для генерации матрицы по заданному размеру
 vector<vector<int>> generateMatrix(int N) {
   vector<vector<int>> res;
+
+  random_device rd;
+  std::mt19937 gen(rd());
+  std::uniform_int_distribution<> dist(1, 1000);
+
   for (int i = 0; i < N; i++) {
     vector<int> row;
     for (int j = 0; j < N; j++) {
-      int el = rand() % 10;
+      int el = dist(gen);
       row.push_back(el);
     }
     res.push_back(row);

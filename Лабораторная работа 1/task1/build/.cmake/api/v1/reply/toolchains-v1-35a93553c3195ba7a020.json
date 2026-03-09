@@ -38,7 +38,7 @@
 					]
 				},
 				"path" : "/usr/bin/clang++",
-				"version" : "21.1.6"
+				"version" : "21.1.8"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 
