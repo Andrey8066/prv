@@ -1,0 +1,3 @@
+/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/out/build/Configure preset using toolchain file/CMakeFiles/task4.dir
+/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/out/build/Configure preset using toolchain file/CMakeFiles/edit_cache.dir
+/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/out/build/Configure preset using toolchain file/CMakeFiles/rebuild_cache.dir
