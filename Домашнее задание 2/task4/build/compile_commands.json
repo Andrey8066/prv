@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task4/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/task4.dir/main.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task4/main.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task4/main.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task4/build/CMakeFiles/task4.dir/main.cpp.o"
+}
+]
