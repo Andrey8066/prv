@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/task6.dir/HyperThreadingSimulator.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/HyperThreadingSimulator.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/HyperThreadingSimulator.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/build/CMakeFiles/task6.dir/HyperThreadingSimulator.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/task6.dir/VirtualThread.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/VirtualThread.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/VirtualThread.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/build/CMakeFiles/task6.dir/VirtualThread.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/task6.dir/main.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/main.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/main.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task6/build/CMakeFiles/task6.dir/main.cpp.o"
+}
+]
