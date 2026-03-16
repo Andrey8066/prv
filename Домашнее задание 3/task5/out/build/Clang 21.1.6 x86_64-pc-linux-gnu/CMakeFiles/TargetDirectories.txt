@@ -1,0 +1,3 @@
+/home/andrey/Documents/BMSTU/PRV/Домашнее задание 3/task5/out/build/Clang 21.1.6 x86_64-pc-linux-gnu/CMakeFiles/task5.dir
+/home/andrey/Documents/BMSTU/PRV/Домашнее задание 3/task5/out/build/Clang 21.1.6 x86_64-pc-linux-gnu/CMakeFiles/edit_cache.dir
+/home/andrey/Documents/BMSTU/PRV/Домашнее задание 3/task5/out/build/Clang 21.1.6 x86_64-pc-linux-gnu/CMakeFiles/rebuild_cache.dir
