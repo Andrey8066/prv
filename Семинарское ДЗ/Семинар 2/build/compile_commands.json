@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/FileManager.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/FileManager.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/FileManager.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/FileManager.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/Group.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Group.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Group.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/Group.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/Person.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Person.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Person.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/Person.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/RecordBook.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/RecordBook.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/RecordBook.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/RecordBook.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/Student.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Student.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Student.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/Student.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/Teacher.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Teacher.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/Teacher.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/Teacher.cpp.o"
+},
+{
+  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/dz1.dir/main.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/main.cpp\"",
+  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/main.cpp",
+  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir/main.cpp.o"
+}
+]
