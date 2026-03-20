@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/DZ1.dir/link.d CMakeFiles/DZ1.dir/Account.cpp.o CMakeFiles/DZ1.dir/Bank.cpp.o CMakeFiles/DZ1.dir/main.cpp.o -o DZ1
