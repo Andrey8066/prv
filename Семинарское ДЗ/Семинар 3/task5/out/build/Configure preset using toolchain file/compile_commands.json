@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/out/build/Configure preset using toolchain file",
-  "command": "/usr/bin/c++ -g -o CMakeFiles/task4.dir/main.cpp.o -c \"/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/main.cpp\"",
-  "file": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/main.cpp",
-  "output": "/home/andrey/Documents/BMSTU/PRV/Домашнее задание 2/task5/out/build/Configure preset using toolchain file/CMakeFiles/task4.dir/main.cpp.o"
-}
-]

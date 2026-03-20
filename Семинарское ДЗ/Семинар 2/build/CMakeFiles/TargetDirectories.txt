@@ -1,3 +1,0 @@
-/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/dz1.dir
-/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/edit_cache.dir
-/home/andrey/Documents/BMSTU/PRV/Домашнее задание 1/build/CMakeFiles/rebuild_cache.dir

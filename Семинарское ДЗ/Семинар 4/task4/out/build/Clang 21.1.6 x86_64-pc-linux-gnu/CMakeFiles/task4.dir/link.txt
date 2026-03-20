@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/task4.dir/link.d CMakeFiles/task4.dir/main.cpp.o -o task4

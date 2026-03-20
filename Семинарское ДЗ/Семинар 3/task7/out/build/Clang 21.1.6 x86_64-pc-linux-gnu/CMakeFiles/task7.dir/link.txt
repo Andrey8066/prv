@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/task7.dir/link.d CMakeFiles/task7.dir/HyperThreadingSimulator.cpp.o CMakeFiles/task7.dir/VirtualThread.cpp.o CMakeFiles/task7.dir/main.cpp.o -o task7
