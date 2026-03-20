@@ -1,5 +1,5 @@
-*/build/
-*/.cache/
-*/CMakePresets.json
+build/
+.cache/
+CMakePresets.json
 *.mp4
-*/out/
+out/
