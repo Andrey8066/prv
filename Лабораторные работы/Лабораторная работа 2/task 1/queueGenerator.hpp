@@ -11,7 +11,7 @@ public:
   void run() {
     std::random_device rd;
     std::mt19937 mt(rd());
-    std::uniform_int_distribution<long long> delayDist(1000, 10000);
+    std::uniform_int_distribution<long long> delayDist(500, 1000);
     std::uniform_int_distribution<size_t> priorityDist(0, 5);
     long long i;
 
